@@ -1,2 +1,2 @@
 # Android_Calculator
-In this calculator the basic operation like Add , Subtract , Multiplication , Division , Percentage .
+In this calculator following operation : Add , Subtract , Multiplication , Division , Percentage , Factorial can be Calculated.
